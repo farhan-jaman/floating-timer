@@ -1,16 +1,34 @@
-# floating_timer
+# floating timer (Windows)
 
-A new Flutter project.
+A simple, lightweight Pomodoro timer for Windows built with Flutter.  
+Stay productive with customizable work and break sessions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- Set custom Pomodoro and break durations
+- Track number of Pomodoros
+- Lightweight and distraction-free
+- Runs as a standalone Windows app
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Installation
+1. Download the latest `.exe` from the [Releases](https://github.com/farhan-jaman/floating-timer/releases) page.
+2. Run the executable, no need to install.
+3. Enjoy your focused Pomodoro sessions!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼️ Screenshots
+*(Add screenshots here later)*
+
+---
+
+## 🛠️ Development
+If you want to build from source:
+```bash
+git clone https://github.com/farhan-jaman/floating-timer.git
+cd floating-timer
+flutter pub get
+flutter build windows
