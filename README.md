@@ -21,7 +21,15 @@ Stay productive with customizable work and break sessions.
 ---
 
 ## 🖼️ Screenshots
-*(Add screenshots here later)*
+
+### Main Window
+![Main Window](assets/screenshots/Screenshot%20(1).png)
+
+### Fullscreen
+![Fullscreen](assets/screenshots/Screenshot%20(2).png)
+
+### Edit Pomodoro
+![Edit Pomodoro](assets/screenshots/Screenshot%20(3).png)
 
 ---
 
