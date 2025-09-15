@@ -1,4 +1,4 @@
-# floating timer (Windows)
+# Floating Timer (Windows)
 
 A simple, lightweight Pomodoro timer for Windows built with Flutter.  
 Stay productive with customizable work and break sessions.
